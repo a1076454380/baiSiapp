@@ -1,0 +1,15 @@
+.wrap{max-width: 750px;width: 100%;height: auto;}
+/*顶部导航栏*/
+.fixed-top{position: fixed;top: 0;left: 0;z-index: 200;}
+.W700{width: 7rem;margin: 0 auto;}
+.fixed-top{width:100%;height: 1rem;background: #AE0000;display: flex;color: white;}
+.top-item{flex: 1;display: flex;justify-content: center;align-items: center;}
+.content{width: 100%;height: auto;padding-top: 0.5rem;}
+.title{display: flex;align-items: center;height: 1rem;margin-top: 0.5rem;}
+.avatar{width: 0.5rem;height: 0.5rem;border-radius: 50%;overflow: hidden;margin-left: 0.2rem;margin-right: 0.2rem;}
+.avatar img{width: 100%;}
+.text{line-height: 0.4rem;}
+.Dvideo{
+	
+}
+.time{display: flex;justify-content: flex-end;border-bottom: 0.02rem solid #AE0000;line-height: 0.4rem;}
